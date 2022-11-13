@@ -33,10 +33,10 @@ Hi,
 ...
 
 ### 团队
-1. Alameda Research
+1. Alameda Research(out)
 2. Kronos Research
 3. Amber
-4. 很多机构背后的团队：Pantera、Paradigm、币信、贝宝
+4. 很多机构背后的团队：Pantera、Paradigm、币信、贝宝(out)
 5. DigitalRoadGroup(thenextquant是我们推出的)
 ...
 
